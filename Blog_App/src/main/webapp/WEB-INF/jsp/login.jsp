@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-	<h3>${errorMsg }</h3>
+	<h3 style="color:red ">${errorMsg }</h3>
    <div class="container">
         <h2>Welcome To Blog App</h2>
         <form action="/Blog_App/logins"  method="post">
